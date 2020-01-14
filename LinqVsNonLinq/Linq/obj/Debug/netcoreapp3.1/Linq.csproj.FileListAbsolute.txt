@@ -1,0 +1,11 @@
+C:\Users\theb0\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\Users\theb0\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\Users\theb0\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\Users\theb0\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\Users\theb0\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\Users\theb0\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\Users\theb0\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\Users\theb0\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\Users\theb0\source\repos\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\theb0\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\Users\theb0\source\repos\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
