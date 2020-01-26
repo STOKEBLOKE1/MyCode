@@ -1,3 +1,5 @@
+-- taken from https://gist.github.com/joey-qc/6710702
+
 declare @tableName varchar(200)
 declare @columnName varchar(200)
 declare @nullable varchar(50)
